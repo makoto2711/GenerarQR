@@ -1,0 +1,30 @@
+
+body{
+    background: #03b351;
+} 
+
+.design
+{
+    filter: drop-shadow(0px 0px 8px #000);
+    border-radius: 12px;
+}
+
+.t-shadow
+{
+    text-shadow: 0 0 10px black;
+}
+
+.b-shadow
+{
+    box-shadow: 0 0 10px #000;
+}
+
+@media screen and (max-width: 992px) 
+{
+    .w-rp
+    {
+    width: 100%; 
+    }
+    
+}
+
